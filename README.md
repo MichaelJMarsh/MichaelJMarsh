@@ -9,7 +9,7 @@
 
 <p align="center">
   <strong>Building cross-platform mobile apps used by millions.</strong><br/>
-  Crafting seamless user experiences with Dart, AI-driven analytics, and a passion for front-end finesse.
+  Crafting seamless user experiences with Dart, AI-driven analytics, and a passion for front‑end finesse.
 </p>
 
 <hr/>
@@ -17,19 +17,19 @@
 <!-- TOP NAV -->
 <p align="center">
   <a href="#-languages--tools">
-    <img src="https://img.shields.io/badge/🛠️%20Languages%20&%20Tools-0A66C2?style=for-the-badge" alt="Languages & Tools" />
+    <img src="https://img.shields.io/badge/🛠️%20Languages%20&%20Tools-FF5722?style=for-the-badge" alt="Languages & Tools" />
   </a>
   <a href="#-personal-projects">
-    <img src="https://img.shields.io/badge/💡%20Personal%20Projects-00C853?style=for-the-badge" alt="Personal Projects" />
+    <img src="https://img.shields.io/badge/💡%20Personal%20Projects-FFC107?style=for-the-badge" alt="Personal Projects" />
   </a>
   <a href="#-professional-projects">
-    <img src="https://img.shields.io/badge/💼%20Professional%20Projects-FF6D00?style=for-the-badge" alt="Professional Projects" />
+    <img src="https://img.shields.io/badge/💼%20Professional%20Projects-9C27B0?style=for-the-badge" alt="Professional Projects" />
   </a>
   <a href="#-github-stats">
-    <img src="https://img.shields.io/badge/📊%20GitHub%20Stats-D32F2F?style=for-the-badge" alt="GitHub Stats" />
+    <img src="https://img.shields.io/badge/📊%20GitHub%20Stats-03A9F4?style=for-the-badge" alt="GitHub Stats" />
   </a>
   <a href="#-my-coding-journey">
-    <img src="https://img.shields.io/badge/🚀%20My%20Coding%20Journey-8E24AA?style=for-the-badge" alt="My Coding Journey" />
+    <img src="https://img.shields.io/badge/🚀%20My%20Coding%20Journey-E91E63?style=for-the-badge" alt="My Coding Journey" />
   </a>
 </p>
 
@@ -61,7 +61,7 @@
 <h2 id="-personal-projects">💡 Personal Projects</h2>
 
 <div style="display: flex; align-items: center; gap: 20px; border: 1px solid #e1e4e8; border-radius: 24px; padding: 1rem; margin-bottom: 1rem; flex-wrap: wrap;">  
-<!-- Project Image -->
+  <!-- Project Image -->
   <div style="flex: 1; min-width: 250px; text-align: center;">
     <img src="https://cannabook.tech/assets/images/screenshot_app_showcase.png" alt="CannaBook App Showcase" style="min-width: 25%; border-radius: 8px;" />
   </div>
@@ -83,10 +83,10 @@
       <li><strong>Optimized Performance</strong>: Continuously refining performance, state management, and UI/UX to ensure a smooth, scalable user experience as we expand into the medical cannabis space.</li>
     </ul>
     <a href="https://play.google.com/store/apps/details?id=com.newca.cannabook" target="_blank">
-      <img src="https://img.shields.io/badge/Download%20CannaBook-Android-success?style=for-the-badge&logo=android" alt="Download for Android"/>
+      <img src="https://img.shields.io/badge/Download%20CannaBook-Android-4CAF50?style=for-the-badge&logo=android" alt="Download for Android"/>
     </a>
     <a href="https://apps.apple.com/us/app/cannabook-medical-companion/id1563350567" target="_blank">
-      <img src="https://img.shields.io/badge/Download%20CannaBook-iOS-blue?style=for-the-badge&logo=apple" alt="Download for iOS"/>
+      <img src="https://img.shields.io/badge/Download%20CannaBook-iOS-2196F3?style=for-the-badge&logo=apple" alt="Download for iOS"/>
     </a>
   </div>
 </div>
@@ -104,23 +104,21 @@
 
   <!-- Project Content -->
   <div style="flex: 2; min-width: 300px; text-align: left;">
-    <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
-      <h3 style="margin: 0;">The Mindfulness App</h3>
-<a href="https://www.themindfulnessapp.com" target="_blank">
-  <img src="https://img.shields.io/badge/View%20Project-007BFF?style=for-the-badge" alt="View Project"/>
-</a>
-    </div>
+    <h3 style="margin: 0;">The Mindfulness App</h3>
     <em>Lead Mobile Engineer | Jul 2024 - Jan 2025</em>
     <p>
       A meditation and breathing app featuring a custom audio player with seamless background playback across iOS, Android, and Web.
     </p>
     <ul>
-      <li><strong>Advanced Audio System</strong>: Developed a feature-rich audio player with background playback, media controls, and smooth transitions for an uninterrupted meditation experience.</li>
-      <li><strong>Cross-Platform Optimization</strong>: Engineered Flutter-based architecture, optimizing performance, state management, and UI responsiveness across mobile and web platforms.</li>
-      <li><strong>App-Wide Enhancements</strong>: Contributed to UI design, performance tuning, and system-wide improvements to enhance stability, usability, and engagement.</li>
-      <li><strong>Streaming & Adaptive Configuration</strong>: Implemented efficient media streaming, real-time audio processing, and dynamic configuration handling for low-latency, high-quality playback.</li>
+      <li><strong>Advanced Audio System</strong>: Developed a feature‑rich audio player with background playback, media controls, and smooth transitions for an uninterrupted meditation experience.</li>
+      <li><strong>Cross‑Platform Optimization</strong>: Engineered Flutter‑based architecture, optimizing performance, state management, and UI responsiveness across mobile and web platforms.</li>
+      <li><strong>App‑Wide Enhancements</strong>: Contributed to UI design, performance tuning, and system‑wide improvements to enhance stability, usability, and engagement.</li>
+      <li><strong>Streaming & Adaptive Configuration</strong>: Implemented efficient media streaming, real‑time audio processing, and dynamic configuration handling for low‑latency, high‑quality playback.</li>
       <li><strong>Scalability & Performance</strong>: Optimized state management, animations, and resource allocation to ensure smooth performance and scalability as the app evolves.</li>
     </ul>
+    <a href="https://www.themindfulnessapp.com" target="_blank">
+      <img src="https://img.shields.io/badge/View%20Project-FF9800?style=for-the-badge" alt="View Project"/>
+    </a>
   </div>
 </div>
 
@@ -129,24 +127,23 @@
   <div style="flex: 1; min-width: 250px; text-align: center;">
     <img src="https://thedoneapp.com/images/hero_illustration.webp" alt="The Mindfulness App Showcase" style="height: 400px; min-width: 25%; border-radius: 8px;" />
   </div>
-<div style="flex: 2; min-width: 300px; text-align: left;">
-   <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
-  <h3 style="margin: 0;">Done: Habit Tracker</h3>  <a href="https://thedoneapp.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/View%20Project-blue?style=flat-square" alt="View Done: Habit Tracker"/>
-  </a>  </div>
-  <em>Lead Mobile Engineer | Oct 2022 - Jul 2024</em>
-  <p>
-    A data-driven habit-tracking app designed to help users build and maintain positive daily habits effortlessly.
-  </p>
-  <ul>
-    <li><strong>Cross-Platform Development</strong>: Built a seamless experience using Flutter & Dart for iOS and Android.</li>
-    <li><strong>Habit Tracking Features</strong>: Developed streak tracking, trend analysis, and goal-setting logic to keep users motivated.</li>
-    <li><strong>Performance Optimization</strong>: Enhanced app speed, state management, and UI animations for an engaging experience.</li>
-    <li><strong>Offline Storage</strong>: Integrated Realm Database for efficient local data storage and seamless offline access.</li>
-    <li><strong>Data-Driven Insights</strong>: Implemented Amplitude Analytics to track user behavior and improve engagement strategies.</li>
-  </ul>
-
-</div>
+  <div style="flex: 2; min-width: 300px; text-align: left;">
+    <h3 style="margin: 0;">Done: Habit Tracker</h3> 
+    <em>Lead Mobile Engineer | Oct 2022 - Jul 2024</em>
+    <p>
+      A data‑driven habit‑tracking app designed to help users build and maintain positive daily habits effortlessly.
+    </p>
+    <ul>
+      <li><strong>Cross‑Platform Development</strong>: Built a seamless experience using Flutter & Dart for iOS and Android.</li>
+      <li><strong>Habit Tracking Features</strong>: Developed streak tracking, trend analysis, and goal‑setting logic to keep users motivated.</li>
+      <li><strong>Performance Optimization</strong>: Enhanced app speed, state management, and UI animations for an engaging experience.</li>
+      <li><strong>Offline Storage</strong>: Integrated Realm Database for efficient local data storage and seamless offline access.</li>
+      <li><strong>Data‑Driven Insights</strong>: Implemented Amplitude Analytics to track user behavior and improve engagement strategies.</li>
+    </ul>
+    <a href="https://thedoneapp.com" target="_blank">
+      <img src="https://img.shields.io/badge/View%20Project-FF9800?style=for-the-badge" alt="View Done: Habit Tracker"/>
+    </a> 
+  </div>
 </div>
 
 <div style="display: flex; align-items: center; gap: 20px; border: 1px solid #e1e4e8; border-radius: 24px; padding: 1rem; margin-bottom: 1rem; flex-wrap: wrap;">  
@@ -154,24 +151,23 @@
   <div style="flex: 1; min-width: 250px; text-align: center;">
     <img src="https://reflectly.app/assets/reflectly_screens.png" alt="The Mindfulness App Showcase" style="min-width: 25%; border-radius: 8px;" />
   </div>
-<div style="flex: 2; min-width: 300px; text-align: left;">
-   <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
-  <h3 style="margin: 0;">Reflectly</h3>   <a href="https://reflectly.app" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/View%20Project-blue?style=flat-square" alt="View Reflectly"/>
-  </a></div>
-  <em>Lead Engineer | Mar 2023 - Sep 2023</em>
-  <p>
-    AI-powered journaling app designed to help users build mindfulness through guided prompts, mood tracking, and intelligent insights.
-  </p>
-  <ul>
-    <li><strong>AI-Driven Personalization</strong>: Enhanced journaling experiences with adaptive prompts and smart mood tracking.</li>
-    <li><strong>Seamless Performance</strong>: Optimized app speed, state management, and UI responsiveness for a smooth iOS and Android experience.</li>
-    <li><strong>Engaging UI/UX</strong>: Refined interface and animations to create a visually immersive and intuitive journaling experience.</li>
-    <li><strong>Data-Driven Reflections</strong>: Integrated AI-powered insights and analytics to help users track progress over time.</li>
-    <li><strong>Cross-Platform Optimization</strong>: Ensured consistent performance and feature parity across mobile platforms.</li>
-  </ul>
-
-</div>
+  <div style="flex: 2; min-width: 300px; text-align: left;">
+    <h3 style="margin: 0;">Reflectly</h3>   
+    <em>Lead Engineer | Mar 2023 - Sep 2023</em>
+    <p>
+      AI‑powered journaling app designed to help users build mindfulness through guided prompts, mood tracking, and intelligent insights.
+    </p>
+    <ul>
+      <li><strong>AI‑Driven Personalization</strong>: Enhanced journaling experiences with adaptive prompts and smart mood tracking.</li>
+      <li><strong>Seamless Performance</strong>: Optimized app speed, state management, and UI responsiveness for a smooth iOS and Android experience.</li>
+      <li><strong>Engaging UI/UX</strong>: Refined interface and animations to create a visually immersive and intuitive journaling experience.</li>
+      <li><strong>Data‑Driven Reflections</strong>: Integrated AI‑powered insights and analytics to help users track progress over time.</li>
+      <li><strong>Cross‑Platform Optimization</strong>: Ensured consistent performance and feature parity across mobile platforms.</li>
+    </ul>
+    <a href="https://reflectly.app" target="_blank">
+      <img src="https://img.shields.io/badge/View%20Project-FF9800?style=for-the-badge" alt="View Reflectly"/>
+    </a>
+  </div>
 </div>
 
 <div style="display: flex; align-items: center; gap: 20px; border: 1px solid #e1e4e8; border-radius: 24px; padding: 1rem; margin-bottom: 1rem; flex-wrap: wrap;">  
@@ -179,31 +175,31 @@
   <div style="flex: 1; min-width: 250px; text-align: center;">
     <img src="https://timebloc.app/assets/images/screenshot_today_light.webp" alt="The Mindfulness App Showcase" style="height: 400px; min-width: 25%; border-radius: 8px;" />
   </div>
-<div style="flex: 2; min-width: 300px; text-align: left;"> <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
-  <h3 style="margin: 0;">TimeBloc: Daily Planner</h3>  <a href="https://timebloc.app" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/View%20Project-blue?style=flat-square" alt="View TimeBloc: Daily Planner"/>
-  </a></div>
-  <em>Mobile Engineer | Sep 2021 - Oct 2022</em>
-  <p>
-    A streamlined time-blocking app enabling users to efficiently plan and structure their day.
-  </p>
-  <ul>
-    <li><strong>Smart Scheduling</strong>: Built features for customizable timelines, routines, and calendar integration to enhance productivity.</li>
-    <li><strong>User-Friendly Interface</strong>: Developed an intuitive drag-and-drop system for effortless schedule management.</li>
-    <li><strong>Progress Tracking</strong>: Integrated detailed productivity insights to help users analyze and optimize their time.</li>
-    <li><strong>Reminders & Notifications</strong>: Implemented smart alerts to keep users on track throughout their day.</li>
-    <li><strong>Seamless Experience</strong>: Optimized performance, state management, and UI responsiveness for a smooth cross-platform experience.</li>
-  </ul>
-
-</div>
+  <div style="flex: 2; min-width: 300px; text-align: left;">
+    <h3 style="margin: 0;">TimeBloc: Daily Planner</h3>
+    <em>Mobile Engineer | Sep 2021 - Oct 2022</em>
+    <p>
+      A streamlined time‑blocking app enabling users to efficiently plan and structure their day.
+    </p>
+    <ul>
+      <li><strong>Smart Scheduling</strong>: Built features for customizable timelines, routines, and calendar integration to enhance productivity.</li>
+      <li><strong>User‑Friendly Interface</strong>: Developed an intuitive drag‑and‑drop system for effortless schedule management.</li>
+      <li><strong>Progress Tracking</strong>: Integrated detailed productivity insights to help users analyze and optimize their time.</li>
+      <li><strong>Reminders & Notifications</strong>: Implemented smart alerts to keep users on track throughout their day.</li>
+      <li><strong>Seamless Experience</strong>: Optimized performance, state management, and UI responsiveness for a smooth cross‑platform experience.</li>
+    </ul>
+    <a href="https://timebloc.app" target="_blank">
+      <img src="https://img.shields.io/badge/View%20Project-FF9800?style=for-the-badge" alt="View TimeBloc: Daily Planner"/>
+    </a>
+  </div>
 </div>
 
 <p align="center">
   <a href="https://example.com/MichaelMarshResume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/-Download%20Resume-brightgreen?style=for-the-badge&logo=AdobeAcrobatReader" alt="Download Resume"/>
+    <img src="https://img.shields.io/badge/-Download%20Resume-00BCD4?style=for-the-badge&logo=AdobeAcrobatReader" alt="Download Resume"/>
   </a>
   <a href="mailto:michael@neulux.tech" target="_blank">
-    <img src="https://img.shields.io/badge/-Email%20Michael-critical?style=for-the-badge&logo=Mail.Ru" alt="Email Michael"/>
+    <img src="https://img.shields.io/badge/-Email%20Michael-F44336?style=for-the-badge&logo=Mail.Ru" alt="Email Michael"/>
   </a>
 </p>
 
@@ -230,7 +226,7 @@
 <h2 id="-my-coding-journey">🚀 My Coding Journey</h2>
 <p>
   Passionate about crafting seamless mobile experiences, I started with MATLAB for research but quickly fell in love with Flutter and Firebase.  
-  <strong>From AI-driven wellness apps to launching CannaBook, my journey has been a deep dive into front-end finesse.</strong>
+  <strong>From AI‑driven wellness apps to launching CannaBook, my journey has been a deep dive into front‑end finesse.</strong>
 </p>
 <details>
   <summary>
@@ -238,9 +234,9 @@
   </summary>
   <br/>
   <p>
-    I've always been fascinated by creating intuitive apps that shape users’ daily lives in meaningful ways—whether it’s a mindfulness platform reaching millions or an AI tool that personalizes healthcare. Starting in MATLAB for academic research, I discovered my passion for front-end craft, leading me to master Flutter, Firebase, and cross-platform development. 
-    From building <strong>AI-driven</strong> wellness apps to launching <strong>CannaBook</strong>, my journey has been about creating experiences that truly impact people’s well-being and productivity.<br/><br/>
-    Now, I'm on a mission to push the boundaries of what mobile apps can do—leveraging <em>AI, analytics, and beautiful design</em> to bring next-gen solutions to life.
+    I've always been fascinated by creating intuitive apps that shape users’ daily lives in meaningful ways—whether it’s a mindfulness platform reaching millions or an AI tool that personalizes healthcare. Starting in MATLAB for academic research, I discovered my passion for front‑end craft, leading me to master Flutter, Firebase, and cross‑platform development. 
+    From building <strong>AI‑driven</strong> wellness apps to launching <strong>CannaBook</strong>, my journey has been about creating experiences that truly impact people’s well‑being and productivity.<br/><br/>
+    Now, I'm on a mission to push the boundaries of what mobile apps can do—leveraging <em>AI, analytics, and beautiful design</em> to bring next‑gen solutions to life.
   </p>
 </details>
 
