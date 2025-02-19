@@ -1,7 +1,7 @@
 <!-- INTRO / HEADER -->
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/h1-wave.gif" width="35" />
-  Michael Marsh 
+  Michael Marsh
+  <br>👨🏼‍💻 👨🏼‍🔬 🏋🏼‍♂️ 
 </h1>
 <h3 align="center">
   <em>Senior Mobile Engineer • Flutter & Firebase Specialist • AI Integrations</em>
@@ -192,8 +192,17 @@
 
 <!-- GITHUB STATS -->
 <h2 id="-github-stats">📊 GitHub Statistics</h2>
+
 <p align="center" style="margin-top:1em;">
-  <img src="https://github-readme-stats.vercel.app/api?username=MichaelJMarsh&show_icons=true&theme=dark" alt="Michael's GitHub stats" style="max-width:400px; border-radius:8px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MichaelJMarsh&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Michael's GitHub stats" style="max-width:400px; border-radius:8px;" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelJMarsh&theme=dark&hide_border=true" alt="GitHub Streak" style="max-width:400px; border-radius:8px;" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelJMarsh&layout=compact&theme=dark&hide_border=true" alt="Top Languages" style="max-width:400px; border-radius:8px;" />
 </p>
 
 ---
