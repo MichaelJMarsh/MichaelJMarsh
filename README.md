@@ -36,7 +36,7 @@
 <!-- QUICK BIO -->
 <p align="center">
   <em>
-    I’m a <strong>senior mobile engineer</strong> with 4+ years of experience creating top‑tier, AI‑powered wellness & productivity apps for millions of users. My passion lies in <strong>Flutter & Firebase</strong>, turning ambitious ideas into scalable, cross‑platform solutions.
+    I’m a <strong>senior mobile engineer</strong> with 4+ years of experience creating top-tier, AI-powered wellness & productivity apps for millions of users. My passion lies in <strong>Flutter & Firebase</strong>, turning ambitious ideas into scalable, cross-platform solutions.
   </em>
 </p>
 
@@ -60,143 +60,121 @@
 <!-- PERSONAL PROJECTS -->
 <h2 id="-personal-projects">💡 Personal Projects</h2>
 
-<table>
-  <tr>
-    <!-- Project Image -->
-    <td align="center" width="50%">
-      <img src="https://cannabook.tech/assets/images/screenshot_app_showcase.png" alt="CannaBook App Showcase" width="50%" />
-    </td>
-    <!-- Project Content -->
-    <td width="50%">
-      <h3>
-        <img src="https://cannabook.tech/assets/images/cannabook_logo_rounded.png" width="16" alt="CannaBook Icon"/>
-        CannaBook: Medical Companion
-      </h3>
-      <p>
-        <em>Founder &amp; Lead Developer | Jul 2020 - Present</em><br/>
-        An AI-driven platform designed to support medical cannabis users with personalized insights, journaling, medicated recipes, and advanced analytics.
-      </p>
-      <ul>
-        <li><strong>Cross-Platform Excellence</strong>: Developed the full application architecture using Flutter for a seamless Android and iOS experience.</li>
-        <li><strong>Intelligent Integration</strong>: Implemented AI-driven recommendations and integrated Firebase for robust backend performance.</li>
-        <li><strong>Proven Growth</strong>: Achieved <strong>20,000+ downloads</strong>, 1,000 monthly active users, and 200 premium subscribers, demonstrating strong engagement.</li>
-        <li><strong>Upcoming Expansion</strong>: Currently developing a major release with advanced tools to track usage, monitor outcomes, and provide personalized treatment insights for PTSD, chemotherapy side effects, and chronic pain.</li>
-        <li><strong>Optimized Performance</strong>: Continuously refining performance, state management, and UI/UX to ensure a smooth, scalable user experience as we expand into the medical cannabis space.</li>
-      </ul>
-      <a href="https://play.google.com/store/apps/details?id=com.newca.cannabook" target="_blank">
-        <img src="https://img.shields.io/badge/Download%20CannaBook-Android-4CAF50?style=for-the-badge&logo=android" alt="Download for Android"/>
-      </a>
-      <a href="https://apps.apple.com/us/app/cannabook-medical-companion/id1563350567" target="_blank">
-        <img src="https://img.shields.io/badge/Download%20CannaBook-iOS-2196F3?style=for-the-badge&logo=apple" alt="Download for iOS"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<h3 align="center">CannaBook: Medical Companion</h3>
+
+<p align="center">
+  <img src="https://cannabook.tech/assets/images/screenshot_app_showcase.png" alt="CannaBook App Showcase" width="50%" />
+</p>
+
+**Founder & Lead Developer | Jul 2020 - Present**  
+An AI-driven platform designed to support medical cannabis users with personalized insights, journaling, medicated recipes, and advanced analytics.
+
+- **Cross-Platform Excellence**: Developed the full application architecture using Flutter for a seamless Android and iOS experience.
+- **Intelligent Integration**: Implemented AI-driven recommendations and integrated Firebase for robust backend performance.
+- **Proven Growth**: Achieved **20,000+ downloads**, 1,000 monthly active users, and 200 premium subscribers, demonstrating strong engagement.
+- **Upcoming Expansion**: Currently developing a major release with advanced tools to track usage, monitor outcomes, and provide personalized treatment insights for PTSD, chemotherapy side effects, and chronic pain.
+- **Optimized Performance**: Continuously refining performance, state management, and UI/UX to ensure a smooth, scalable user experience as we expand into the medical cannabis space.
+
+<a href="https://play.google.com/store/apps/details?id=com.newca.cannabook" target="_blank">
+  <img src="https://img.shields.io/badge/Download%20CannaBook-Android-4CAF50?style=for-the-badge&logo=android" alt="Download for Android"/>
+</a>
+<a href="https://apps.apple.com/us/app/cannabook-medical-companion/id1563350567" target="_blank">
+  <img src="https://img.shields.io/badge/Download%20CannaBook-iOS-2196F3?style=for-the-badge&logo=apple" alt="Download for iOS"/>
+</a>
 
 ---
 
 <!-- PROFESSIONAL PROJECTS -->
 <h2 id="-professional-projects">💼 Professional Projects</h2>
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://www.themindfulnessapp.com/_next/image?url=%2Fimages%2Fhome-hero-mockup-EN.webp&w=828&q=75" alt="The Mindfulness App Showcase" width="50%" />
-    </td>
-    <td width="50%">
-      <h3>The Mindfulness App</h3>
-      <em>Lead Mobile Engineer | Jul 2024 - Jan 2025</em>
-      <p>
-        A meditation and breathing app featuring a custom audio player with seamless background playback across iOS, Android, and Web.
-      </p>
-      <ul>
-        <li><strong>Advanced Audio System</strong>: Developed a feature‑rich audio player with background playback, media controls, and smooth transitions for an uninterrupted meditation experience.</li>
-        <li><strong>Cross‑Platform Optimization</strong>: Engineered Flutter‑based architecture, optimizing performance, state management, and UI responsiveness across mobile and web platforms.</li>
-        <li><strong>App‑Wide Enhancements</strong>: Contributed to UI design, performance tuning, and system‑wide improvements to enhance stability, usability, and engagement.</li>
-        <li><strong>Streaming & Adaptive Configuration</strong>: Implemented efficient media streaming, real‑time audio processing, and dynamic configuration handling for low‑latency, high‑quality playback.</li>
-        <li><strong>Scalability & Performance</strong>: Optimized state management, animations, and resource allocation to ensure smooth performance and scalability as the app evolves.</li>
-      </ul>
-      <a href="https://www.themindfulnessapp.com" target="_blank">
-        <img src="https://img.shields.io/badge/View%20Project-FF9800?style=for-the-badge" alt="View Project"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<h3 align="center">The Mindfulness App</h3>
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://thedoneapp.com/images/hero_illustration.webp" alt="Done App Showcase" width="50%" />
-    </td>
-    <td width="50%">
-      <h3>Done: Habit Tracker</h3> 
-      <em>Lead Mobile Engineer | Oct 2022 - Jul 2024</em>
-      <p>
-        A data‑driven habit‑tracking app designed to help users build and maintain positive daily habits effortlessly.
-      </p>
-      <ul>
-        <li><strong>Cross‑Platform Development</strong>: Built a seamless experience using Flutter & Dart for iOS and Android.</li>
-        <li><strong>Habit Tracking Features</strong>: Developed streak tracking, trend analysis, and goal‑setting logic to keep users motivated.</li>
-        <li><strong>Performance Optimization</strong>: Enhanced app speed, state management, and UI animations for an engaging experience.</li>
-        <li><strong>Offline Storage</strong>: Integrated Realm Database for efficient local data storage and seamless offline access.</li>
-        <li><strong>Data‑Driven Insights</strong>: Implemented Amplitude Analytics to track user behavior and improve engagement strategies.</li>
-      </ul>
-      <a href="https://thedoneapp.com" target="_blank">
-        <img src="https://img.shields.io/badge/View%20Project-FF9800?style=for-the-badge" alt="View Done: Habit Tracker"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://www.themindfulnessapp.com/_next/image?url=%2Fimages%2Fhome-hero-mockup-EN.webp&w=828&q=75" alt="The Mindfulness App Showcase" width="50%" />
+</p>
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://reflectly.app/assets/reflectly_screens.png" alt="Reflectly App Showcase" width="50%" />
-    </td>
-    <td width="50%">
-      <h3>Reflectly</h3>   
-      <em>Lead Engineer | Mar 2023 - Sep 2023</em>
-      <p>
-        AI‑powered journaling app designed to help users build mindfulness through guided prompts, mood tracking, and intelligent insights.
-      </p>
-      <ul>
-        <li><strong>AI‑Driven Personalization</strong>: Enhanced journaling experiences with adaptive prompts and smart mood tracking.</li>
-        <li><strong>Seamless Performance</strong>: Optimized app speed, state management, and UI responsiveness for a smooth iOS and Android experience.</li>
-        <li><strong>Engaging UI/UX</strong>: Refined interface and animations to create a visually immersive and intuitive journaling experience.</li>
-        <li><strong>Data‑Driven Reflections</strong>: Integrated AI‑powered insights and analytics to help users track progress over time.</li>
-        <li><strong>Cross‑Platform Optimization</strong>: Ensured consistent performance and feature parity across mobile platforms.</li>
-      </ul>
-      <a href="https://reflectly.app" target="_blank">
-        <img src="https://img.shields.io/badge/View%20Project-FF9800?style=for-the-badge" alt="View Reflectly"/>
-      </a>
-    </td>
-  </tr>
-</table>
+**Lead Mobile Engineer | Jul 2024 - Jan 2025**  
+A meditation and breathing app featuring a custom audio player with seamless background playback across iOS, Android, and Web.
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://timebloc.app/assets/images/screenshot_today_light.webp" alt="TimeBloc App Showcase" width="50%" />
-    </td>
-    <td width="50%">
-      <h3>TimeBloc: Daily Planner</h3>
-      <em>Mobile Engineer | Sep 2021 - Oct 2022</em>
-      <p>
-        A streamlined time‑blocking app enabling users to efficiently plan and structure their day.
-      </p>
-      <ul>
-        <li><strong>Smart Scheduling</strong>: Built features for customizable timelines, routines, and calendar integration to enhance productivity.</li>
-        <li><strong>User‑Friendly Interface</strong>: Developed an intuitive drag‑and‑drop system for effortless schedule management.</li>
-        <li><strong>Progress Tracking</strong>: Integrated detailed productivity insights to help users analyze and optimize their time.</li>
-        <li><strong>Reminders & Notifications</strong>: Implemented smart alerts to keep users on track throughout their day.</li>
-        <li><strong>Seamless Experience</strong>: Optimized performance, state management, and UI responsiveness for a smooth cross‑platform experience.</li>
-      </ul>
-      <a href="https://timebloc.app" target="_blank">
-        <img src="https://img.shields.io/badge/View%20Project-FF9800?style=for-the-badge" alt="View TimeBloc: Daily Planner"/>
-      </a>
-    </td>
-  </tr>
-</table>
+- **Advanced Audio System**: Developed a feature-rich audio player with background playback, media controls, and smooth transitions for an uninterrupted meditation experience.
+- **Cross-Platform Optimization**: Engineered Flutter-based architecture, optimizing performance, state management, and UI responsiveness across mobile and web.
+- **App-Wide Enhancements**: Contributed to UI design, performance tuning, and system-wide improvements to enhance stability, usability, and engagement.
+- **Streaming & Adaptive Configuration**: Implemented efficient media streaming, real-time audio processing, and dynamic configuration handling for low-latency, high-quality playback.
+- **Scalability & Performance**: Optimized state management, animations, and resource allocation to ensure smooth performance and scalability as the app evolves.
+
+<p align="center">
+<a href="https://www.themindfulnessapp.com" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Project-FF9800?style=for-the-badge" alt="View Project"/>
+</a>
+</p>
+
+---
+
+<h3 align="center">Done: Habit Tracker</h3>
+
+<p align="center">
+  <img src="https://thedoneapp.com/images/hero_illustration.webp" alt="Done App Showcase" width="40%" />
+</p>
+
+**Lead Mobile Engineer | Oct 2022 - Jul 2024**  
+A data-driven habit-tracking app designed to help users build and maintain positive daily habits effortlessly.
+
+- **Cross-Platform Development**: Built a seamless experience using Flutter & Dart for iOS and Android.
+- **Habit Tracking Features**: Developed streak tracking, trend analysis, and goal-setting logic to keep users motivated.
+- **Performance Optimization**: Enhanced app speed, state management, and UI animations for an engaging experience.
+- **Offline Storage**: Integrated Realm Database for efficient local data storage and seamless offline access.
+- **Data-Driven Insights**: Implemented Amplitude Analytics to track user behavior and improve engagement strategies.
+
+<p align="center">
+<a href="https://thedoneapp.com" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Project-FF9800?style=for-the-badge" alt="View Done: Habit Tracker"/>
+</a></p>
+
+---
+
+<h3 align="center">Reflectly</h3>
+
+<p align="center">
+  <img src="https://reflectly.app/assets/reflectly_screens.png" alt="Reflectly App Showcase" width="65%" />
+</p>
+
+**Lead Engineer | Mar 2023 - Sep 2023**  
+AI-powered journaling app designed to help users build mindfulness through guided prompts, mood tracking, and intelligent insights.
+
+- **AI-Driven Personalization**: Enhanced journaling experiences with adaptive prompts and smart mood tracking.
+- **Seamless Performance**: Optimized app speed, state management, and UI responsiveness for a smooth iOS and Android experience.
+- **Engaging UI/UX**: Refined interface and animations to create a visually immersive and intuitive journaling experience.
+- **Data-Driven Reflections**: Integrated AI-powered insights and analytics to help users track progress over time.
+- **Cross-Platform Optimization**: Ensured consistent performance and feature parity across mobile platforms.
+
+<p align="center">
+<a href="https://reflectly.app" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Project-FF9800?style=for-the-badge" alt="View Reflectly"/>
+</a></p>
+
+---
+
+<h3 align="center">TimeBloc: Daily Planner</h3>
+
+<p align="center">
+  <img src="https://timebloc.app/assets/images/screenshot_today_light.webp" alt="TimeBloc App Showcase" width="28%" />
+</p>
+
+**Mobile Engineer | Sep 2021 - Oct 2022**  
+A streamlined time-blocking app enabling users to efficiently plan and structure their day.
+
+- **Smart Scheduling**: Built features for customizable timelines, routines, and calendar integration to enhance productivity.
+- **User-Friendly Interface**: Developed an intuitive drag-and-drop system for effortless schedule management.
+- **Progress Tracking**: Integrated detailed productivity insights to help users analyze and optimize their time.
+- **Reminders & Notifications**: Implemented smart alerts to keep users on track throughout their day.
+- **Seamless Experience**: Optimized performance, state management, and UI responsiveness for a smooth cross-platform experience.
+
+<p align="center">
+<a href="https://timebloc.app" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Project-FF9800?style=for-the-badge" alt="View TimeBloc: Daily Planner"/>
+</a></p>
+
+---
 
 <p align="center">
   <a href="https://example.com/MichaelMarshResume.pdf" target="_blank">
