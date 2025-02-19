@@ -213,7 +213,7 @@ A streamlined time-blocking app enabling users to efficiently plan and structure
 ---
 
 <!-- CODING JOURNEY -->
-<h2 id="my-coding-journey">🚀 My Coding Journey</h2>
+<h2 id="-my-coding-journey">🚀 My Coding Journey</h2>
 <p>
   My journey in tech began in Germany, where I conducted biomechanics research and published peer-reviewed work using MATLAB—learning precision and data analysis along the way. When COVID-19 forced lab closures, I pivoted from science to software engineering, driven by a desire to build mobile experiences that truly resonate.
 </p>
