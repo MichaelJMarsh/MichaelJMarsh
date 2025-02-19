@@ -4,13 +4,8 @@
   <br>👨🏼‍💻 👨🏼‍🔬 🏋🏼‍♂️
 </h1>
 <h3 align="center">
-  <em>Senior Mobile Engineer • Flutter & Firebase Specialist • AI Integrations</em>
+  <em>Mobile Engineer • Cross‑Platform Innovator • AI Enthusiast</em>
 </h3>
-
-<p align="center">
-  <strong>Building cross-platform mobile apps used by millions.</strong><br/>
-  Crafting seamless user experiences with Dart, AI-driven analytics, and a passion for front-end finesse.
-</p>
 
 <hr/>
 
@@ -33,11 +28,10 @@
   </a>
 </p>
 
-<!-- QUICK BIO -->
+<!-- BIO -->
 <p align="center">
-  <em>
-    I’m a <strong>senior mobile engineer</strong> with 4+ years of experience creating top-tier, AI-powered wellness & productivity apps for millions of users. My passion lies in <strong>Flutter & Firebase</strong>, turning ambitious ideas into scalable, cross-platform solutions.
-  </em>
+  <strong>BLENDING SOFTWARE, SCIENCE & DESIGN TO BUILD IMPACTFUL MOBILE EXPERIENCES</strong><br/>
+  Fueled by a passion for software, science, and health, I craft high-performance applications that enhance everyday life. With my background in mobile development and scientific research, I bring a unique perspective—combining precision, creativity, and deep technical expertise to build solutions that are as intuitive as they are powerful.
 </p>
 
 ---
@@ -192,35 +186,71 @@ A streamlined time-blocking app enabling users to efficiently plan and structure
 <!-- GITHUB STATS -->
 <h2 id="-github-stats">📊 GitHub Statistics</h2>
 
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MichaelJMarsh&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Michael's GitHub stats" width="400" />
+  <a href="https://github.com/MichaelJMarsh">
+    <img src="https://github-readme-stats.vercel.app/api?username=MichaelJMarsh&show_icons=true&theme=dark&count_private=true&hide_border=true&cache_seconds=1800" 
+         alt="Michael's GitHub Stats" width="400" />
+  </a>
 </p>
 
+<!-- GitHub Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelJMarsh&theme=dark&hide_border=true" alt="GitHub Streak" width="400" />
+  <a href="https://github.com/MichaelJMarsh">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelJMarsh&theme=dark&hide_border=true&cache_seconds=1800" 
+         alt="GitHub Streak" width="400" />
+  </a>
 </p>
 
+<!-- Most Used Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelJMarsh&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="400" />
+  <a href="https://github.com/MichaelJMarsh">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelJMarsh&layout=compact&theme=dark&count_private=true&hide_border=true&cache_seconds=1800"
+         alt="Top Languages" width="400" />
+  </a>
 </p>
 
 ---
 
 <!-- CODING JOURNEY -->
-<h2 id="-my-coding-journey">🚀 My Coding Journey</h2>
+<h2 id="my-coding-journey">🚀 My Coding Journey</h2>
 <p>
-  Passionate about crafting seamless mobile experiences, I started with MATLAB for research but quickly fell in love with Flutter and Firebase.
-  <strong>From AI‑driven wellness apps to launching CannaBook, my journey has been a deep dive into front‑end finesse.</strong>
+  My journey in tech began in Germany, where I conducted biomechanics research and published peer-reviewed work using MATLAB—learning precision and data analysis along the way. When COVID-19 forced lab closures, I pivoted from science to software engineering, driven by a desire to build mobile experiences that truly resonate.
 </p>
+<p>
+  I embraced Flutter and Firebase to craft innovative, high-performance mobile solutions. Since joining Reflective Technologies in September 2021, I’ve led teams through every phase of app development—from early Figma designs to full-scale production—across projects that span guided meditation audio streaming, habit tracking, AI-enhanced journaling, and much more!
+</p>
+<p>
+  Every line of code is an opportunity to solve real-world challenges, blending my passion for software, science, and health with a relentless drive to innovate and excel.
+</p>
+
 <details>
   <summary>
-    <em>Read more about my journey...</em> 🔽
+    <em>Discover more about my journey and projects...</em> 🔽
   </summary>
   <br/>
   <p>
-    I've always been fascinated by creating intuitive apps that shape users’ daily lives in meaningful ways—whether it’s a mindfulness platform reaching millions or an AI tool that personalizes healthcare. Starting in MATLAB for academic research, I discovered my passion for front‑end craft, leading me to master Flutter, Firebase, and cross‑platform development.
-    From building <strong>AI‑driven</strong> wellness apps to launching <strong>CannaBook</strong>, my journey has been about creating experiences that truly impact people’s well‑being and productivity.<br/><br/>
-    Now, I'm on a mission to push the boundaries of what mobile apps can do—leveraging <em>AI, analytics, and beautiful design</em> to bring next‑gen solutions to life.
+    At Reflective Technologies, I’ve played a pivotal role in several standout projects:
+  </p>
+  <ul>
+   <li>
+      <strong>The Mindfulness App:</strong> I spearheaded the development of an advanced audio player with seamless background playback, enhanced media streaming, and adaptive controls—ensuring a smooth meditation experience across platforms.
+    </li>
+    <li>
+      <strong>Done: Habit Tracker:</strong> I played a key role in optimizing the front-end architecture, enhancing performance, animations, and state management to deliver a seamless and engaging habit-tracking experience.
+    </li>
+    <li>
+      <strong>Reflectly & Other AI-Powered Apps:</strong> I contributed significantly to the development of AI-driven journaling and wellness apps, helping refine UI/UX, boost performance, and improve data-driven insights.
+    </li>
+    <li>
+      <strong>TimeBloc: Daily Planner:</strong> I completely rewrote the frontend UI, overhauling the scheduling experience, improving responsiveness, and implementing a more intuitive and polished design for a seamless user experience.
+    </li>
+  </ul>
+  <p>
+    Beyond my professional work, I founded <strong>CannaBook</strong>—an AI-driven platform for medical cannabis users that offers personalized insights, journaling, and medicated recipes. With over 20K downloads, 1K monthly active users, and 200 premium subscribers, CannaBook reflects my commitment to merging health and technology.
+  </p>
+  <p>
+    My diverse background in scientific research and mobile engineering gives me a unique edge: the ability to combine rigorous data analysis with creative problem-solving. I’m continuously honing my skills in Flutter, Firebase, and beyond—driven by a passion for building apps that not only perform flawlessly but also make a meaningful impact on people’s lives.
   </p>
 </details>
 
@@ -228,7 +258,11 @@ A streamlined time-blocking app enabling users to efficiently plan and structure
 
 <p align="center">
   <em>
-    Thanks for reading!<br/>
-    <strong>Let’s connect and build something amazing together!</strong>
+    Thanks for stopping by!<br/>
+    <strong>Let’s connect, innovate, and create something extraordinary together.</strong>
   </em>
 </p>
+
+<p align="center"><a href="mailto:michael@neulux.tech?subject=Opportunity%20to%20Connect&body=Hi%20Michael,%0A%0AI%20hope%20you're%20doing%20well.%20I'm%20reaching%20out%20to%20explore%20potential%20opportunities%20for%20collaboration%20and%20would%20love%20to%20connect.%20Please%20let%20me%20know%20if%20you’d%20be%20open%20to%20a%20conversation.%0A%0AThank%20you,%0A[Your%20Name]" target="_blank">
+    <img src="https://img.shields.io/badge/-Email%20Michael-F44336?style=for-the-badge&logo=Mail.Ru" alt="Email Michael"/>
+</a></p>
