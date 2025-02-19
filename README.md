@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/💼%20Professional%20Projects-FF6D00?style=for-the-badge" alt="Professional Projects" />
   </a>
   <a href="#-github-stats">
-    <img src="https://img.shields.io/badge/📊%20GitHub%20Stats-24292F?style=for-the-badge" alt="GitHub Stats" />
+    <img src="https://img.shields.io/badge/📊%20GitHub%20Stats-D32F2F?style=for-the-badge" alt="GitHub Stats" />
   </a>
   <a href="#-my-coding-journey">
     <img src="https://img.shields.io/badge/🚀%20My%20Coding%20Journey-8E24AA?style=for-the-badge" alt="My Coding Journey" />
@@ -60,10 +60,10 @@
 <!-- PERSONAL PROJECTS -->
 <h2 id="-personal-projects">💡 Personal Projects</h2>
 
-<div style="display: flex; align-items: center; gap: 20px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; flex-wrap: wrap;">
-  <!-- Project Image -->
+<div style="display: flex; align-items: center; gap: 20px; border: 1px solid #e1e4e8; border-radius: 24px; padding: 1rem; margin-bottom: 1rem; flex-wrap: wrap;">  
+<!-- Project Image -->
   <div style="flex: 1; min-width: 250px; text-align: center;">
-    <img src="https://cannabook.tech/assets/images/screenshot_app_showcase.png" alt="CannaBook App Showcase" style="width: 50%; border-radius: 8px;" />
+    <img src="https://cannabook.tech/assets/images/screenshot_app_showcase.png" alt="CannaBook App Showcase" style="min-width: 25%; border-radius: 8px;" />
   </div>
   <!-- Project Content -->
   <div style="flex: 2; min-width: 300px; text-align: left;">
@@ -95,33 +95,45 @@
 
 <!-- PROFESSIONAL PROJECTS -->
 <h2 id="-professional-projects">💼 Professional Projects</h2>
+
+<div style="display: flex; align-items: center; gap: 20px; border: 1px solid #e1e4e8; border-radius: 24px; padding: 1rem; margin-bottom: 1rem; flex-wrap: wrap;">
   <!-- Project Image -->
   <div style="flex: 1; min-width: 250px; text-align: center;">
-    <img src="https://www.themindfulnessapp.com/_next/image?url=%2Fimages%2Fhome-hero-mockup-EN.webp&w=828&q=75" alt="The Mindfulness App Showcase" style="width: 50%; border-radius: 8px;" />
+    <img src="https://www.themindfulnessapp.com/_next/image?url=%2Fimages%2Fhome-hero-mockup-EN.webp&w=828&q=75" alt="The Mindfulness App Showcase" style="min-width: 25%; border-radius: 8px;" />
   </div>
-<div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 1rem; margin-bottom: 1rem;">
-  <h3 style="margin: 0;">The Mindfulness App</h3>
-  <em>Lead Mobile Engineer | Jul 2024 - Jan 2025</em>
-  <p>
-    A meditation and breathing app featuring a custom audio player with seamless background playback across iOS, Android, and Web.
-  </p>
-  <ul>
-    <li><strong>Advanced Audio System</strong>: Developed a feature-rich audio player with background playback, media controls, and smooth transitions for an uninterrupted meditation experience.</li>
-    <li><strong>Cross-Platform Optimization</strong>: Engineered Flutter-based architecture, optimizing performance, state management, and UI responsiveness across mobile and web platforms.</li>
-    <li><strong>App-Wide Enhancements</strong>: Contributed to UI design, performance tuning, and system-wide improvements to enhance stability, usability, and engagement.</li>
-    <li><strong>Streaming & Adaptive Configuration</strong>: Implemented efficient media streaming, real-time audio processing, and dynamic configuration handling for low-latency, high-quality playback.</li>
-    <li><strong>Scalability & Performance</strong>: Optimized state management, animations, and resource allocation to ensure smooth performance and scalability as the app evolves.</li>
-  </ul>
-  <a href="https://www.themindfulnessapp.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/View%20Project-blue?style=flat-square" alt="View The Mindfulness App"/>
-  </a>
+
+  <!-- Project Content -->
+  <div style="flex: 2; min-width: 300px; text-align: left;">
+    <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+      <h3 style="margin: 0;">The Mindfulness App</h3>
+<a href="https://www.themindfulnessapp.com" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Project-007BFF?style=for-the-badge" alt="View Project"/>
+</a>
+    </div>
+    <em>Lead Mobile Engineer | Jul 2024 - Jan 2025</em>
+    <p>
+      A meditation and breathing app featuring a custom audio player with seamless background playback across iOS, Android, and Web.
+    </p>
+    <ul>
+      <li><strong>Advanced Audio System</strong>: Developed a feature-rich audio player with background playback, media controls, and smooth transitions for an uninterrupted meditation experience.</li>
+      <li><strong>Cross-Platform Optimization</strong>: Engineered Flutter-based architecture, optimizing performance, state management, and UI responsiveness across mobile and web platforms.</li>
+      <li><strong>App-Wide Enhancements</strong>: Contributed to UI design, performance tuning, and system-wide improvements to enhance stability, usability, and engagement.</li>
+      <li><strong>Streaming & Adaptive Configuration</strong>: Implemented efficient media streaming, real-time audio processing, and dynamic configuration handling for low-latency, high-quality playback.</li>
+      <li><strong>Scalability & Performance</strong>: Optimized state management, animations, and resource allocation to ensure smooth performance and scalability as the app evolves.</li>
+    </ul>
+  </div>
 </div>
+
+<div style="display: flex; align-items: center; gap: 20px; border: 1px solid #e1e4e8; border-radius: 24px; padding: 1rem; margin-bottom: 1rem; flex-wrap: wrap;">  
   <!-- Project Image -->
   <div style="flex: 1; min-width: 250px; text-align: center;">
-    <img src="https://www.themindfulnessapp.com/_next/image?url=%2Fimages%2Fhome-hero-mockup-EN.webp&w=828&q=75" alt="The Mindfulness App Showcase" style="width: 50%; border-radius: 8px;" />
+    <img src="https://thedoneapp.com/images/hero_illustration.webp" alt="The Mindfulness App Showcase" style="height: 400px; min-width: 25%; border-radius: 8px;" />
   </div>
-<div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 1rem; margin-bottom: 1rem;">
-  <h3 style="margin: 0;">Done: Habit Tracker</h3>
+<div style="flex: 2; min-width: 300px; text-align: left;">
+   <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+  <h3 style="margin: 0;">Done: Habit Tracker</h3>  <a href="https://thedoneapp.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/View%20Project-blue?style=flat-square" alt="View Done: Habit Tracker"/>
+  </a>  </div>
   <em>Lead Mobile Engineer | Oct 2022 - Jul 2024</em>
   <p>
     A data-driven habit-tracking app designed to help users build and maintain positive daily habits effortlessly.
@@ -133,16 +145,20 @@
     <li><strong>Offline Storage</strong>: Integrated Realm Database for efficient local data storage and seamless offline access.</li>
     <li><strong>Data-Driven Insights</strong>: Implemented Amplitude Analytics to track user behavior and improve engagement strategies.</li>
   </ul>
-  <a href="https://thedoneapp.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/View%20Project-blue?style=flat-square" alt="View Done: Habit Tracker"/>
-  </a>
+
 </div>
+</div>
+
+<div style="display: flex; align-items: center; gap: 20px; border: 1px solid #e1e4e8; border-radius: 24px; padding: 1rem; margin-bottom: 1rem; flex-wrap: wrap;">  
   <!-- Project Image -->
   <div style="flex: 1; min-width: 250px; text-align: center;">
-    <img src="https://www.themindfulnessapp.com/_next/image?url=%2Fimages%2Fhome-hero-mockup-EN.webp&w=828&q=75" alt="The Mindfulness App Showcase" style="width: 50%; border-radius: 8px;" />
+    <img src="https://reflectly.app/assets/reflectly_screens.png" alt="The Mindfulness App Showcase" style="min-width: 25%; border-radius: 8px;" />
   </div>
-<div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 1rem; margin-bottom: 1rem;">
-  <h3 style="margin: 0;">Reflectly</h3>
+<div style="flex: 2; min-width: 300px; text-align: left;">
+   <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+  <h3 style="margin: 0;">Reflectly</h3>   <a href="https://reflectly.app" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/View%20Project-blue?style=flat-square" alt="View Reflectly"/>
+  </a></div>
   <em>Lead Engineer | Mar 2023 - Sep 2023</em>
   <p>
     AI-powered journaling app designed to help users build mindfulness through guided prompts, mood tracking, and intelligent insights.
@@ -154,16 +170,19 @@
     <li><strong>Data-Driven Reflections</strong>: Integrated AI-powered insights and analytics to help users track progress over time.</li>
     <li><strong>Cross-Platform Optimization</strong>: Ensured consistent performance and feature parity across mobile platforms.</li>
   </ul>
-  <a href="https://reflectly.app" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/View%20Project-blue?style=flat-square" alt="View Reflectly"/>
-  </a>
+
 </div>
+</div>
+
+<div style="display: flex; align-items: center; gap: 20px; border: 1px solid #e1e4e8; border-radius: 24px; padding: 1rem; margin-bottom: 1rem; flex-wrap: wrap;">  
   <!-- Project Image -->
   <div style="flex: 1; min-width: 250px; text-align: center;">
-    <img src="https://timebloc.app/assets/images/screenshot_today_light.webp" alt="The Mindfulness App Showcase" style="height: 500px; max-width: 50%; border-radius: 8px;" />
+    <img src="https://timebloc.app/assets/images/screenshot_today_light.webp" alt="The Mindfulness App Showcase" style="height: 400px; min-width: 25%; border-radius: 8px;" />
   </div>
-<div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 1rem; margin-bottom: 1rem;">
-  <h3 style="margin: 0;">TimeBloc: Daily Planner</h3>
+<div style="flex: 2; min-width: 300px; text-align: left;"> <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+  <h3 style="margin: 0;">TimeBloc: Daily Planner</h3>  <a href="https://timebloc.app" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/View%20Project-blue?style=flat-square" alt="View TimeBloc: Daily Planner"/>
+  </a></div>
   <em>Mobile Engineer | Sep 2021 - Oct 2022</em>
   <p>
     A streamlined time-blocking app enabling users to efficiently plan and structure their day.
@@ -175,10 +194,10 @@
     <li><strong>Reminders & Notifications</strong>: Implemented smart alerts to keep users on track throughout their day.</li>
     <li><strong>Seamless Experience</strong>: Optimized performance, state management, and UI responsiveness for a smooth cross-platform experience.</li>
   </ul>
-  <a href="https://timebloc.app" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/View%20Project-blue?style=flat-square" alt="View TimeBloc: Daily Planner"/>
-  </a>
+
 </div>
+</div>
+
 <p align="center">
   <a href="https://example.com/MichaelMarshResume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/-Download%20Resume-brightgreen?style=for-the-badge&logo=AdobeAcrobatReader" alt="Download Resume"/>
