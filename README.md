@@ -104,7 +104,7 @@ A meditation and breathing app featuring a custom audio player with seamless bac
 </a>
 </p>
 
----
+<hr/>
 
 <h3 align="center">Done: Habit Tracker</h3>
 
@@ -126,7 +126,7 @@ A data-driven habit-tracking app designed to help users build and maintain posit
   <img src="https://img.shields.io/badge/View%20Project-FF9800?style=for-the-badge" alt="View Done: Habit Tracker"/>
 </a></p>
 
----
+<hr/>
 
 <h3 align="center">Reflectly</h3>
 
@@ -148,7 +148,7 @@ AI-powered journaling app designed to help users build mindfulness through guide
   <img src="https://img.shields.io/badge/View%20Project-FF9800?style=for-the-badge" alt="View Reflectly"/>
 </a></p>
 
----
+<hr/>
 
 <h3 align="center">TimeBloc: Daily Planner</h3>
 
@@ -170,7 +170,7 @@ A streamlined time-blocking app enabling users to efficiently plan and structure
   <img src="https://img.shields.io/badge/View%20Project-FF9800?style=for-the-badge" alt="View TimeBloc: Daily Planner"/>
 </a></p>
 
----
+<hr/>
 
 <p align="center">
   <a href="https://example.com/MichaelMarshResume.pdf" target="_blank">
