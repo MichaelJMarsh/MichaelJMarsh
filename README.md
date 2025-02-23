@@ -26,14 +26,31 @@
 <!-- LANGUAGES & TOOLS -->
 <h2 id="-languages--tools">🛠️ Languages &amp; Tools</h2>
 <p align="center">
+  <!-- Flutter -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50" />
+  <!-- Dart -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="50" height="50" />
+  <!-- Firebase -->
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50" />
+  <!-- OpenAI -->
   <img src="https://cdn.brandfetch.io/idR3duQxYl/theme/light/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="OpenAI" width="50" height="50" />
+  <!-- SQLite -->
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="50" height="50" />
+  <!-- Figma -->
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50" />
+  <!-- Git -->
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" />
+  <!-- GitHub Actions -->
   <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="GitHub Actions" width="50" height="50" />
+  <!-- Android -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="50" height="50" />
+  <!-- iOS / Swift -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift (iOS)" width="50" height="50" />
+  <!-- REST API -->
+  <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="REST API" width="50" height="50" />
+  <!-- Amplitude -->
+  <img src="https://www.vectorlogo.zone/logos/amplitude/amplitude-icon.svg" alt="Amplitude" width="50" height="50" />
+
 </p>
 
 ---
@@ -60,8 +77,41 @@ An AI-driven platform designed to support medical cannabis users with personaliz
 - **Upcoming Expansion**: Currently developing a major release with advanced tools to track usage, monitor outcomes, and provide personalized treatment insights for PTSD, chemotherapy side effects, and chronic pain.
 - **Optimized Performance**: Continuously refining performance, state management, and UI/UX to ensure a smooth, scalable user experience as we expand into the medical cannabis space.
 
+<br/><h4 align="center">CannaBook Stories</h4>
+
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.newca.cannabook" target="_blank"><img src="https://img.shields.io/badge/Download%20CannaBook-Android-4CAF50?style=for-the-badge&logo=android" alt="Download for Android" style="vertical-align: middle;"></a><a href="https://apps.apple.com/us/app/cannabook-medical-companion/id1563350567" target="_blank"><img src="https://img.shields.io/badge/Download%20CannaBook-iOS-2196F3?style=for-the-badge&logo=apple" alt="Download for iOS" style="vertical-align: middle;"></a>
+  I use CannaBook to help me on my journey finding the perfect strain for my fibromyalgia. This app helps me keep track of everything and I can easily look up information on cannabis as well.
+  <br/><strong>Jenna &nbsp;&nbsp; • &nbsp;&nbsp; ⭐⭐⭐⭐⭐</strong>
+</p>
+
+<p align="center">
+  As I suffer from multiple injuries bringing medical discharge, and living on a veterans pension, this has been helpful in my quest to use CBD and THC flower and oil. By my Dr and pain clinic. Thanks for an app I can keep track of what works best and when.
+  <br/><strong>Trooper &nbsp;&nbsp; • &nbsp;&nbsp; ⭐⭐⭐⭐⭐</strong>
+</p>
+
+<p align="center">
+  As someone who suffers from PTSD, this app makes keeping track of the strains that best help me easy! The app is straightforward and easy to use. I highly recommend it! Thanks!
+  <br/><strong>Dex &nbsp;&nbsp; • &nbsp;&nbsp; ⭐⭐⭐⭐⭐</strong>
+</p>
+
+<p align="center">
+  Just started using to log my usage of Cannabis and CBD. Wish I had started sooner. Especially since most things I knew about Marijuana from the 70's had changed. It really does help me with this so I can figure out what is best for me. Strongly suggested for people in my age group.
+  <br/><strong>George &nbsp;&nbsp; • &nbsp;&nbsp; ⭐⭐⭐⭐⭐</strong>
+</p>
+
+<p align="center">
+  CannaBook: Cannabis Companion is a great application, the recipes are great, you can journal about your different types of weed strains, you can even watch yourself level up in the Application as well. There's so much in the application that you just have to download it for yourself. I'd recommend it if you're looking for a fun little cannabis application for yourself and maybe some friends. 😃
+  <br/><strong>Shannon &nbsp;&nbsp; • &nbsp;&nbsp; ⭐⭐⭐⭐⭐</strong>
+</p>
+
+<p align="center">
+  Love this app! The recipes are super easy and organized. I love how the ingredients are separated from the directions. Super easy to use and very organized!
+  <br/><strong>Kim &nbsp;&nbsp; • &nbsp;&nbsp; ⭐⭐⭐⭐⭐</strong>
+</p>
+
+<br/><p align="center">
+<a href="https://play.google.com/store/apps/details?id=com.newca.cannabook" target="_blank"><img src="https://img.shields.io/badge/Download%20CannaBook-Android-4CAF50?style=for-the-badge&logo=android" alt="Download for Android" style="vertical-align: middle;"></a><a href="https://apps.apple.com/us/app/cannabook-medical-companion/id1563350567" target="_blank"><img src="https://img.shields.io/badge/Download%20CannaBook-iOS-2196F3?style=for-the-badge&logo=apple" alt="Download for iOS" style="vertical-align: middle;"></a>
+
 </p>
 
 ---
@@ -159,7 +209,7 @@ A streamlined time-blocking app enabling users to efficiently plan and structure
 <hr/>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/MichaelJMarsh/MichaelJMarsh/main/assets/resume_michael_marsh.pdf" target="_blank"><img src="https://img.shields.io/badge/-Download%20Resume-00BCD4?style=for-the-badge&logo=google-docs&logoColor=white" alt="Download Resume" style="vertical-align: middle;"></a><a href="mailto:michael@neulux.tech?subject=Opportunity%20to%20Connect&body=Hi%20Michael,%0A%0AI%20hope%20you're%20doing%20well.%20I'm%20reaching%20out%20to%20explore%20potential%20opportunities%20for%20collaboration%20and%20would%20love%20to%20connect.%20Please%20let%20me%20know%20if%20you’d%20be%20open%20to%20a%20conversation.%0A%0AThank%20you,%0A[Your%20Name]" target="_blank"><img src="https://img.shields.io/badge/-Email%20Michael-F44336?style=for-the-badge&logo=Mail.Ru" alt="Email Michael" style="vertical-align: middle;"></a>
+  <a href="https://github.com/MichaelJMarsh/MichaelJMarsh/raw/main/assets/resume_michael_marsh.pdf" target="_blank"><img src="https://img.shields.io/badge/-Download%20Resume-00BCD4?style=for-the-badge&logo=google-docs&logoColor=white" alt="Download Resume" style="vertical-align: middle;"></a><a href="mailto:michael@neulux.tech?subject=Opportunity%20to%20Connect&body=Hi%20Michael,%0A%0AI%20hope%20you're%20doing%20well.%20I'm%20reaching%20out%20to%20explore%20potential%20opportunities%20for%20collaboration%20and%20would%20love%20to%20connect.%20Please%20let%20me%20know%20if%20you’d%20be%20open%20to%20a%20conversation.%0A%0AThank%20you,%0A[Your%20Name]" target="_blank"><img src="https://img.shields.io/badge/-Email%20Michael-F44336?style=for-the-badge&logo=Mail.Ru" alt="Email Michael" style="vertical-align: middle;"></a>
 </p>
 
 ---
