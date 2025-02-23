@@ -11,17 +11,7 @@
 
 <!-- TOP NAV -->
 <p align="center">
-  <a href="#-languages--tools">
-    <img src="https://img.shields.io/badge/🛠️%20Languages%20&%20Tools-FF5722?style=for-the-badge" alt="Languages & Tools" style="vertical-align: middle;"/>
-  </a><a href="#-personal-projects">
-    <img src="https://img.shields.io/badge/💡%20Personal%20Projects-FFC107?style=for-the-badge" alt="Personal Projects" style="vertical-align: middle;"/>
-  </a><a href="#-professional-projects">
-    <img src="https://img.shields.io/badge/💼%20Professional%20Projects-9C27B0?style=for-the-badge" alt="Professional Projects" style="vertical-align: middle;"/>
-  </a><a href="#-github-stats">
-    <img src="https://img.shields.io/badge/📊%20GitHub%20Stats-03A9F4?style=for-the-badge" alt="GitHub Stats" style="vertical-align: middle;"/>
-  </a><a href="#-my-coding-journey">
-    <img src="https://img.shields.io/badge/🚀%20My%20Coding%20Journey-E91E63?style=for-the-badge" alt="My Coding Journey" style="vertical-align: middle;"/>
-  </a>
+  <a href="#-languages--tools"><img src="https://img.shields.io/badge/🛠️%20Languages%20&%20Tools-FF5722?style=for-the-badge" alt="Languages & Tools" style="vertical-align: middle;"></a><a href="#-personal-projects"><img src="https://img.shields.io/badge/💡%20Personal%20Projects-FFC107?style=for-the-badge" alt="Personal Projects" style="vertical-align: middle;"></a><a href="#-professional-projects"><img src="https://img.shields.io/badge/💼%20Professional%20Projects-9C27B0?style=for-the-badge" alt="Professional Projects" style="vertical-align: middle;"></a><a href="#-github-stats"><img src="https://img.shields.io/badge/📊%20GitHub%20Stats-03A9F4?style=for-the-badge" alt="GitHub Stats" style="vertical-align: middle;"></a><a href="#-my-coding-journey"><img src="https://img.shields.io/badge/🚀%20My%20Coding%20Journey-E91E63?style=for-the-badge" alt="My Coding Journey" style="vertical-align: middle;"></a>
 </p>
 
 <!-- BIO -->
@@ -70,11 +60,7 @@ An AI-driven platform designed to support medical cannabis users with personaliz
 - **Optimized Performance**: Continuously refining performance, state management, and UI/UX to ensure a smooth, scalable user experience as we expand into the medical cannabis space.
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.newca.cannabook" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20CannaBook-Android-4CAF50?style=for-the-badge&logo=android" alt="Download for Android" style="vertical-align: middle;"/>
-  </a><a href="https://apps.apple.com/us/app/cannabook-medical-companion/id1563350567" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20CannaBook-iOS-2196F3?style=for-the-badge&logo=apple" alt="Download for iOS" style="vertical-align: middle;"/>
-  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.newca.cannabook" target="_blank"><img src="https://img.shields.io/badge/Download%20CannaBook-Android-4CAF50?style=for-the-badge&logo=android" alt="Download for Android" style="vertical-align: middle;"></a><a href="https://apps.apple.com/us/app/cannabook-medical-companion/id1563350567" target="_blank"><img src="https://img.shields.io/badge/Download%20CannaBook-iOS-2196F3?style=for-the-badge&logo=apple" alt="Download for iOS" style="vertical-align: middle;"></a>
 </p>
 
 ---
@@ -172,11 +158,7 @@ A streamlined time-blocking app enabling users to efficiently plan and structure
 <hr/>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/MichaelJMarsh/MichaelJMarsh/main/resume_michael_marsh.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/-Download%20Resume-00BCD4?style=for-the-badge&logo=google-docs&logoColor=white" alt="Download Resume" style="vertical-align: middle;"/>
-  </a><a href="mailto:michael@neulux.tech?subject=Opportunity%20to%20Connect&body=Hi%20Michael,%0A%0AI%20hope%20you're%20doing%20well.%20I'm%20reaching%20out%20to%20explore%20potential%20opportunities%20for%20collaboration%20and%20would%20love%20to%20connect.%20Please%20let%20me%20know%20if%20you’d%20be%20open%20to%20a%20conversation.%0A%0AThank%20you,%0A[Your%20Name]" target="_blank">
-    <img src="https://img.shields.io/badge/-Email%20Michael-F44336?style=for-the-badge&logo=Mail.Ru" alt="Email Michael" style="vertical-align: middle;"/>
-  </a>
+  <a href="https://raw.githubusercontent.com/MichaelJMarsh/MichaelJMarsh/main/resume_michael_marsh.pdf" target="_blank"><img src="https://img.shields.io/badge/-Download%20Resume-00BCD4?style=for-the-badge&logo=google-docs&logoColor=white" alt="Download Resume" style="vertical-align: middle;"></a><a href="mailto:michael@neulux.tech?subject=Opportunity%20to%20Connect&body=Hi%20Michael,%0A%0AI%20hope%20you're%20doing%20well.%20I'm%20reaching%20out%20to%20explore%20potential%20opportunities%20for%20collaboration%20and%20would%20love%20to%20connect.%20Please%20let%20me%20know%20if%20you’d%20be%20open%20to%20a%20conversation.%0A%0AThank%20you,%0A[Your%20Name]" target="_blank"><img src="https://img.shields.io/badge/-Email%20Michael-F44336?style=for-the-badge&logo=Mail.Ru" alt="Email Michael" style="vertical-align: middle;"></a>
 </p>
 
 ---
