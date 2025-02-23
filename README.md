@@ -51,6 +51,10 @@
 
 ---
 
+![GitHub Snake Animation](https://raw.githubusercontent.com/MichaelJMarsh/MichaelJMarsh/output/github-contribution-grid-snake.svg)
+
+---
+
 <!-- PERSONAL PROJECTS -->
 <h2 id="-personal-projects">💡 Personal Projects</h2>
 
