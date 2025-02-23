@@ -60,8 +60,41 @@ An AI-driven platform designed to support medical cannabis users with personaliz
 - **Upcoming Expansion**: Currently developing a major release with advanced tools to track usage, monitor outcomes, and provide personalized treatment insights for PTSD, chemotherapy side effects, and chronic pain.
 - **Optimized Performance**: Continuously refining performance, state management, and UI/UX to ensure a smooth, scalable user experience as we expand into the medical cannabis space.
 
+<br/><h4 align="center">CannaBook Stories</h4>
+
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.newca.cannabook" target="_blank"><img src="https://img.shields.io/badge/Download%20CannaBook-Android-4CAF50?style=for-the-badge&logo=android" alt="Download for Android" style="vertical-align: middle;"></a><a href="https://apps.apple.com/us/app/cannabook-medical-companion/id1563350567" target="_blank"><img src="https://img.shields.io/badge/Download%20CannaBook-iOS-2196F3?style=for-the-badge&logo=apple" alt="Download for iOS" style="vertical-align: middle;"></a>
+  I use CannaBook to help me on my journey finding the perfect strain for my fibromyalgia. This app helps me keep track of everything and I can easily look up information on cannabis as well.
+  <br/><strong>Jenna &nbsp;&nbsp; • &nbsp;&nbsp; ⭐⭐⭐⭐⭐</strong>
+</p>
+
+<p align="center">
+  As I suffer from multiple injuries bringing medical discharge, and living on a veterans pension, this has been helpful in my quest to use CBD and THC flower and oil. By my Dr and pain clinic. Thanks for an app I can keep track of what works best and when.
+  <br/><strong>Trooper &nbsp;&nbsp; • &nbsp;&nbsp; ⭐⭐⭐⭐⭐</strong>
+</p>
+
+<p align="center">
+  As someone who suffers from PTSD, this app makes keeping track of the strains that best help me easy! The app is straightforward and easy to use. I highly recommend it! Thanks!
+  <br/><strong>Dex &nbsp;&nbsp; • &nbsp;&nbsp; ⭐⭐⭐⭐⭐</strong>
+</p>
+
+<p align="center">
+  Just started using to log my usage of Cannabis and CBD. Wish I had started sooner. Especially since most things I knew about Marijuana from the 70's had changed. It really does help me with this so I can figure out what is best for me. Strongly suggested for people in my age group.
+  <br/><strong>George &nbsp;&nbsp; • &nbsp;&nbsp; ⭐⭐⭐⭐⭐</strong>
+</p>
+
+<p align="center">
+  CannaBook: Cannabis Companion is a great application, the recipes are great, you can journal about your different types of weed strains, you can even watch yourself level up in the Application as well. There's so much in the application that you just have to download it for yourself. I'd recommend it if you're looking for a fun little cannabis application for yourself and maybe some friends. 😃
+  <br/><strong>Shannon &nbsp;&nbsp; • &nbsp;&nbsp; ⭐⭐⭐⭐⭐</strong>
+</p>
+
+<p align="center">
+  Love this app! The recipes are super easy and organized. I love how the ingredients are separated from the directions. Super easy to use and very organized!
+  <br/><strong>Kim &nbsp;&nbsp; • &nbsp;&nbsp; ⭐⭐⭐⭐⭐</strong>
+</p>
+
+<br/><p align="center">
+<a href="https://play.google.com/store/apps/details?id=com.newca.cannabook" target="_blank"><img src="https://img.shields.io/badge/Download%20CannaBook-Android-4CAF50?style=for-the-badge&logo=android" alt="Download for Android" style="vertical-align: middle;"></a><a href="https://apps.apple.com/us/app/cannabook-medical-companion/id1563350567" target="_blank"><img src="https://img.shields.io/badge/Download%20CannaBook-iOS-2196F3?style=for-the-badge&logo=apple" alt="Download for iOS" style="vertical-align: middle;"></a>
+
 </p>
 
 ---
