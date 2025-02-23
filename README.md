@@ -5,6 +5,7 @@
 
 <h3 align="center">
   <em>Mobile Engineer • Cross‑Platform Innovator • AI Enthusiast</em>
+  <p align="center"><br>👨🏼‍💻 👨🏼‍🔬 🏋🏼‍♂️</p>
 </h3>
 
 <hr/>
