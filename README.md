@@ -26,14 +26,31 @@
 <!-- LANGUAGES & TOOLS -->
 <h2 id="-languages--tools">🛠️ Languages &amp; Tools</h2>
 <p align="center">
+  <!-- Flutter -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50" />
+  <!-- Dart -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="50" height="50" />
+  <!-- Firebase -->
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50" />
+  <!-- OpenAI -->
   <img src="https://cdn.brandfetch.io/idR3duQxYl/theme/light/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="OpenAI" width="50" height="50" />
+  <!-- SQLite -->
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="50" height="50" />
+  <!-- Figma -->
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50" />
+  <!-- Git -->
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" />
+  <!-- GitHub Actions -->
   <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="GitHub Actions" width="50" height="50" />
+  <!-- Android -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="50" height="50" />
+  <!-- iOS / Swift -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift (iOS)" width="50" height="50" />
+  <!-- REST API -->
+  <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="REST API" width="50" height="50" />
+  <!-- Amplitude -->
+  <img src="https://www.vectorlogo.zone/logos/amplitude/amplitude-icon.svg" alt="Amplitude" width="50" height="50" />
+
 </p>
 
 ---
