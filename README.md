@@ -1,8 +1,8 @@
 <!-- INTRO / HEADER -->
-<h1 align="center">
-  Michael Marsh
-  <br>👨🏼‍💻 👨🏼‍🔬 🏋🏼‍♂️
-</h1>
+<p align="center">
+  <img src="assets/developer_profile_banner.jpg" alt="Developer Profile Banner" width="100%"/>
+</p>
+
 <h3 align="center">
   <em>Mobile Engineer • Cross‑Platform Innovator • AI Enthusiast</em>
 </h3>
@@ -158,7 +158,7 @@ A streamlined time-blocking app enabling users to efficiently plan and structure
 <hr/>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/MichaelJMarsh/MichaelJMarsh/main/resume_michael_marsh.pdf" target="_blank"><img src="https://img.shields.io/badge/-Download%20Resume-00BCD4?style=for-the-badge&logo=google-docs&logoColor=white" alt="Download Resume" style="vertical-align: middle;"></a><a href="mailto:michael@neulux.tech?subject=Opportunity%20to%20Connect&body=Hi%20Michael,%0A%0AI%20hope%20you're%20doing%20well.%20I'm%20reaching%20out%20to%20explore%20potential%20opportunities%20for%20collaboration%20and%20would%20love%20to%20connect.%20Please%20let%20me%20know%20if%20you’d%20be%20open%20to%20a%20conversation.%0A%0AThank%20you,%0A[Your%20Name]" target="_blank"><img src="https://img.shields.io/badge/-Email%20Michael-F44336?style=for-the-badge&logo=Mail.Ru" alt="Email Michael" style="vertical-align: middle;"></a>
+  <a href="https://raw.githubusercontent.com/MichaelJMarsh/MichaelJMarsh/main/assets/resume_michael_marsh.pdf" target="_blank"><img src="https://img.shields.io/badge/-Download%20Resume-00BCD4?style=for-the-badge&logo=google-docs&logoColor=white" alt="Download Resume" style="vertical-align: middle;"></a><a href="mailto:michael@neulux.tech?subject=Opportunity%20to%20Connect&body=Hi%20Michael,%0A%0AI%20hope%20you're%20doing%20well.%20I'm%20reaching%20out%20to%20explore%20potential%20opportunities%20for%20collaboration%20and%20would%20love%20to%20connect.%20Please%20let%20me%20know%20if%20you’d%20be%20open%20to%20a%20conversation.%0A%0AThank%20you,%0A[Your%20Name]" target="_blank"><img src="https://img.shields.io/badge/-Email%20Michael-F44336?style=for-the-badge&logo=Mail.Ru" alt="Email Michael" style="vertical-align: middle;"></a>
 </p>
 
 ---
