@@ -32,6 +32,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="50" height="50" />
   <!-- Firebase -->
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50" />
+  <!-- Next.js -->
+  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js" width="50" height="50"/>
+  <!-- Vercel -->
+  <img src="https://cdn.brandfetch.io/idDpCfN4VD/theme/light/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Vercel" width="50" height="50"/>
+  <!-- React -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50" />
+  <!-- Tailwind CSS -->
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50" />
   <!-- OpenAI -->
   <img src="https://cdn.brandfetch.io/idR3duQxYl/theme/light/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="OpenAI" width="50" height="50" />
   <!-- SQLite -->
@@ -48,8 +56,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift (iOS)" width="50" height="50" />
   <!-- REST API -->
   <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="REST API" width="50" height="50" />
-  <!-- Amplitude -->
-  <img src="https://www.vectorlogo.zone/logos/amplitude/amplitude-icon.svg" alt="Amplitude" width="50" height="50" />
 
 </p>
 
